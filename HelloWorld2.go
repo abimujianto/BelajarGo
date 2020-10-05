@@ -4,6 +4,6 @@ import "fmr"
 
 func main(){
 	fmt.Println("hello World")
-	fmt.Println("ini branch hello2")
+	fmt.Println("Tes hello world 2 di branch")
 
 }
