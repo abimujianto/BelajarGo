@@ -1,7 +1,7 @@
 import "fmr"
 
 func main(){
-	fmt.Println(" ini halaman master.go ")
+	fmt.Println(" ini halaman master.go 1 ")
 
 
 } 
